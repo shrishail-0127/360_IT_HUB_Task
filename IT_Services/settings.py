@@ -34,7 +34,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'pythondeveloper0127@gmail.com'  # Replace with your Gmail address
-EMAIL_HOST_PASSWORD = 'Python@0127'  # Replace with your App Password
+EMAIL_HOST_PASSWORD = 'lscl jrle ysea znkb'  # Replace with your App Password
 
 
 
